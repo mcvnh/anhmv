@@ -6,4 +6,4 @@ Great to know that you guys are browsing my Github profile.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhmv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhmv&layout=compact)](https://github.com/anhmv?tab=repositories&q=&type=public&language=)

@@ -12,7 +12,7 @@ Things I am playing around:
 
 Things I share
 
-- [Recommendation System](https://slides.com/anhmv/deck-1)
+- [Recommendation System](https://slides.com/anhmv/deck-1) - build your own a simple recommendation system just to see how it works.
 
 ---
 

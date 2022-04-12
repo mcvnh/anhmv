@@ -1,8 +1,6 @@
-Hi. My name is Anh. I am currently living in Danang, Vietnam.
+# Hello 👋
 
-I used to work at [FPT Software](https://www.fpt-software.com/), [Green Global](https://greenglobal.vn/en/), and [Axon Active](https://www.axonactive.com/) as a  Software Engineer, I also worked for many branches as a part-time software engineer such as [Vow to be Chic](https://www.vowtobechic.com/), and [Ezrirx](https://ezrirx.com/). Currently, I am working at [Bespokify](https://bespokify.com/) as a software engineer.
-
-Great to know that you guys are browsing my Github profile.
+I am a curious guy, I love exploring history, life, and myself. I build software for living. I practice Kendo and Wingchun as my pastime.
 
 ---
 

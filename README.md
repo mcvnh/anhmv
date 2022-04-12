@@ -10,6 +10,10 @@ Things I am playing around:
 - Javascript/Typescript - I myself don't like Typescript (career purpose only), but Javascript. 💵 
 - [Elixir](https://elixir-lang.org/)/[Erlang](https://www.erlang.org/) - Functional programming, concurrent programming, fault-tolerance, built-in memory cache, database, otp, easy to scale.
 
+Things I share
+
+- [Recommendation System](https://slides.com/anhmv/deck-1)
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcvnh&layout=compact)](https://github.com/mcvnh?tab=repositories&q=&type=public&language=)
